@@ -119,7 +119,7 @@ int main() {
     aplicarHabilidade(tabuleiro, habilidadeOctaedro, origemOctaedroLinha, origemOctaedroColuna);
 
     // Exibindo o tabuleiro final
-    exibirTabuleiro(tabuleiiro);
+    exibirTabuleiro(tabuleiro);
 
     return 0;
 }
